@@ -7,7 +7,7 @@ import './widgets/chart.dart';
 void main() {
   runApp(MyApp());
 }
-//test this app
+//test this app its working :) more comming omn the way
 
 class MyApp extends StatelessWidget {
   @override
